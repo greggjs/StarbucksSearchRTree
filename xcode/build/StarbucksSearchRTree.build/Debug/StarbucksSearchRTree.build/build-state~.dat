@@ -1,0 +1,197 @@
+TStarbucksSearchRTree
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/Info.plist" Info.plist
+cCpResource CinderApp.icns ./build/Debug/StarbucksSearchRTree.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/k8/b059wlxn3w94b77d027mpg6r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/StarbucksSearchRTree_Prefix-gmtqoznxgrmbldazfjqnwwsmvfvx/StarbucksSearchRTree_Prefix.pch.pth StarbucksSearchRTree_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/Objects-normal/i386/StarbucksSearchRTreeApp.o "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/../src/StarbucksSearchRTreeApp.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/MacOS/StarbucksSearchRTree" normal i386
+cTouch "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F90F72900000000000000CC
+t1334900521
+s204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c000000005029F07D00000000000001E5
+t1344925821
+s485
+
+N/System/Library/Frameworks/Accelerate.framework/Accelerate
+c000000004F9C286C00000000000064D0
+t1335634028
+s25808
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004F9C2828000000000039E5E0
+t1335633960
+s3794400
+
+N/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c000000004F9C2828000000000000C2D0
+t1335633960
+s49872
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004E45C3F80000000000006530
+t1313195000
+s25904
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E45C3F80000000000006560
+t1313195000
+s25952
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004F9C282800000000001195D0
+t1335633960
+s1152464
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004F9D0514000000000007CED0
+t1335690516
+s511696
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004F9D04D2000000000002E350
+t1335690450
+s189264
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c000000004F9D072200000000004B7F60
+t1335691042
+s4947808
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004F9D069F000000000032B7E0
+t1335690911
+s3323872
+
+N/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/../src/StarbucksSearchRTreeApp.cpp
+c000000005089409C0000000000000251
+t1351172252
+s593
+
+N/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app
+t2
+s0
+
+N/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/Info.plist
+t2
+s0
+
+N/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/MacOS/StarbucksSearchRTree
+t2
+s0
+
+N/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/Objects-normal/i386/StarbucksSearchRTree.LinkFileList
+c000000005089425400000000000000B7
+t1351172692
+s183
+
+N/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/Objects-normal/i386/StarbucksSearchRTreeApp.o
+t2
+s0
+
+N/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/CinderApp.icns
+c000000005089409C000000000001BEB5
+t1351172252
+s114357
+
+N/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/StarbucksSearchRTree_Prefix.pch
+c000000005089409C0000000000000093
+t1351172252
+s147
+i<Cocoa/Cocoa.h>
+
+N/var/folders/k8/b059wlxn3w94b77d027mpg6r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/StarbucksSearchRTree_Prefix-gmtqoznxgrmbldazfjqnwwsmvfvx/StarbucksSearchRTree_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c000000005089409C000000000000035A
+t1351172252
+s858
+
+CBuild AST from "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/../src/StarbucksSearchRTreeApp.cpp"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa67ba1d47939b641^a67ca4d47939b641^---0#1#0#--18"Check dependencies36"D09EE2F9-48B2-4468-A877-65AE1E02C72F-
+
+CCompileC ./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/Objects-normal/i386/StarbucksSearchRTreeApp.o "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/../src/StarbucksSearchRTreeApp.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s372865492.874600
+e372865495.706196
+r1
+xCompileC
+x./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/Objects-normal/i386/StarbucksSearchRTreeApp.o
+x/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/../src/StarbucksSearchRTreeApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/../src/StarbucksSearchRTreeApp.cpp3108e0d47939b641^96cdb4d77939b641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/smartkid1965/Documents/DOC/CSE%20274/StarbucksSearchRTree/xcode/../src/StarbucksSearchRTreeApp.cpp0000000000000000^3445"CompileC ./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/Objects-normal/i386/StarbucksSearchRTreeApp.o ../src/StarbucksSearchRTreeApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/StarbucksSearchRTree-generated-files.hmap" "-I/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/StarbucksSearchRTree-own-target-headers.hmap" "-I/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/StarbucksSearchRTree-all-target-headers.hmap" -iquote "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/StarbucksSearchRTree-project-headers.hmap" -iquote../../../../../../../cinder_0.8.4_mac/include -iquote../include "-I/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/build/Debug/include" -I../../../../../../../cinder_0.8.4_mac/boost "-I/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/DerivedSources/i386" "-I/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/DerivedSources" "-F/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/build/Debug" -include /var/folders/k8/b059wlxn3w94b77d027mpg6r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/StarbucksSearchRTree_Prefix-gmtqoznxgrmbldazfjqnwwsmvfvx/StarbucksSearchRTree_Prefix.pch -MMD -MT dependencies -MF "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/Objects-normal/i386/StarbucksSearchRTreeApp.d" --serialize-diagnostics "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/Objects-normal/i386/StarbucksSearchRTreeApp.dia" -c "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/../src/StarbucksSearchRTreeApp.cpp" -o "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/Objects-normal/i386/StarbucksSearchRTreeApp.o"36"18CCCBDF-B734-4683-93ED-35A50842E0FD-
+
+CCpResource CinderApp.icns ./build/Debug/StarbucksSearchRTree.app/Contents/Resources/CinderApp.icns
+s372865492.718496
+e372865492.722574
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/StarbucksSearchRTree.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy ./build/Debug/StarbucksSearchRTree.app/Contents/Resources/CinderApp.icnsfe0fb8d47939b641^c6fcb8d47939b641^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/smartkid1965/Documents/DOC/CSE%20274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/Resources/CinderApp.icns000000000080d041^504"CpResource CinderApp.icns ./build/Debug/StarbucksSearchRTree.app/Contents/Resources/CinderApp.icns    cd "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/CinderApp.icns" "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/Resources"36"EEF9E84C-1B44-4A72-8EC7-0D116A17FBC2-
+
+CLd "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/MacOS/StarbucksSearchRTree" normal i386
+s372865495.714126
+e372865498.274125
+r1
+xLd
+x/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/MacOS/StarbucksSearchRTree
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Link /Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/MacOS/StarbucksSearchRTreeabe9b6d77939b641^732d46da7939b641^---0#0#0#--1239"Ld ./build/Debug/StarbucksSearchRTree.app/Contents/MacOS/StarbucksSearchRTree normal i386    cd "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode"    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk "-L/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/build/Debug" "-F/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/build/Debug" -filelist "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/Objects-normal/i386/StarbucksSearchRTree.LinkFileList" -mmacosx-version-min=10.7 ../../../../../../../cinder_0.8.4_mac/lib/libcinder_d.a -lcurl -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -o "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/MacOS/StarbucksSearchRTree"36"8CCD54AE-4703-49F8-B136-470AC3E06DCC-
+
+CProcessInfoPlistFile "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/Info.plist" Info.plist
+s372865492.702272
+e372865492.707042
+r1
+xProcessInfoPlistFile
+x/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist84f5b3d47939b641^990eb5d47939b641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/smartkid1965/Documents/DOC/CSE%20274/StarbucksSearchRTree/xcode/Info.plist0000000000000000^519"ProcessInfoPlistFile ./build/Debug/StarbucksSearchRTree.app/Contents/Info.plist Info.plist    cd "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app/Contents/Info.plist"36"D232AEB3-310D-4062-B6CF-B7AE9C52420F-
+
+CProcessPCH++ /Users/smartkid1965/Library/Developer/Xcode/DerivedData/StarbucksSearchRTree-dblxupgkcmvwwealawwkfjzrqgog/Index/PrecompiledHeaders/StarbucksSearchRTree_Prefix-eicxuhisahxuwjfruhjlywwnfkek_ast/StarbucksSearchRTree_Prefix.pch.pth StarbucksSearchRTree_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/k8/b059wlxn3w94b77d027mpg6r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/StarbucksSearchRTree_Prefix-gmtqoznxgrmbldazfjqnwwsmvfvx/StarbucksSearchRTree_Prefix.pch.pth StarbucksSearchRTree_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s372865492.730763
+e372865492.866732
+r1
+xProcessPCH++
+x/var/folders/k8/b059wlxn3w94b77d027mpg6r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/StarbucksSearchRTree_Prefix-gmtqoznxgrmbldazfjqnwwsmvfvx/StarbucksSearchRTree_Prefix.pch.pth
+xStarbucksSearchRTree_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Precompile StarbucksSearchRTree_Prefix.pch2849bbd47939b641^c1e1ddd47939b641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/smartkid1965/Documents/DOC/CSE%20274/StarbucksSearchRTree/xcode/StarbucksSearchRTree_Prefix.pch0000000000000000^3333"ProcessPCH++ /var/folders/k8/b059wlxn3w94b77d027mpg6r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/StarbucksSearchRTree_Prefix-gmtqoznxgrmbldazfjqnwwsmvfvx/StarbucksSearchRTree_Prefix.pch.pth StarbucksSearchRTree_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/StarbucksSearchRTree-generated-files.hmap" "-I/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/StarbucksSearchRTree-own-target-headers.hmap" "-I/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/StarbucksSearchRTree-all-target-headers.hmap" -iquote "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/StarbucksSearchRTree-project-headers.hmap" -iquote../../../../../../../cinder_0.8.4_mac/include -iquote../include "-I/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/build/Debug/include" -I../../../../../../../cinder_0.8.4_mac/boost "-I/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/DerivedSources/i386" "-I/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/StarbucksSearchRTree.build/Debug/StarbucksSearchRTree.build/DerivedSources" "-F/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/build/Debug" --serialize-diagnostics /var/folders/k8/b059wlxn3w94b77d027mpg6r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/StarbucksSearchRTree_Prefix-gmtqoznxgrmbldazfjqnwwsmvfvx/StarbucksSearchRTree_Prefix.pch.dia -c "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/StarbucksSearchRTree_Prefix.pch" -o /var/folders/k8/b059wlxn3w94b77d027mpg6r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/StarbucksSearchRTree_Prefix-gmtqoznxgrmbldazfjqnwwsmvfvx/StarbucksSearchRTree_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/k8/b059wlxn3w94b77d027mpg6r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/StarbucksSearchRTree_Prefix-gmtqoznxgrmbldazfjqnwwsmvfvx/StarbucksSearchRTree_Prefix.pch.d36"2DEDC305-A5A8-46B0-B1F2-255A62435D98-
+
+CTouch "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app"
+s372865498.283122
+e372865498.474557
+r1
+xTouch
+x/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Touch /Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.appff9648da7939b641^5b7d79da7939b641^---0#0#0#--255"Touch ./build/Debug/StarbucksSearchRTree.app    cd "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode"    /usr/bin/touch -c "/Users/smartkid1965/Documents/DOC/CSE 274/StarbucksSearchRTree/xcode/./build/Debug/StarbucksSearchRTree.app"36"3D0676AE-55A5-4BD9-9FD7-7CD0ED5FFF87-
+

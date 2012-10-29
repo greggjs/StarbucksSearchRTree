@@ -9,26 +9,27 @@
 /* Begin PBXBuildFile section */
 		0091D8F90E81B9330029341E /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0091D8F80E81B9330029341E /* OpenGL.framework */; };
 		0097E3E50F3E9819005A4392 /* QuickTime.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0097E3E40F3E9819005A4392 /* QuickTime.framework */; };
-		00B784B30FF439BC000DE1D7 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B784AF0FF439BC000DE1D7 /* Accelerate.framework */; };
-		00B784B40FF439BC000DE1D7 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B784B00FF439BC000DE1D7 /* AudioToolbox.framework */; };
-		00B784B50FF439BC000DE1D7 /* AudioUnit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B784B10FF439BC000DE1D7 /* AudioUnit.framework */; };
-		00B784B60FF439BC000DE1D7 /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B784B20FF439BC000DE1D7 /* CoreAudio.framework */; };
 		00BAE65A0E7ED9C10018A608 /* StarbucksSearchRTreeApp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 00BAE6590E7ED9C10018A608 /* StarbucksSearchRTreeApp.cpp */; };
 		00CCAF15116A9FEE008396D5 /* CinderApp.icns in Resources */ = {isa = PBXBuildFile; fileRef = 00CCAF14116A9FEE008396D5 /* CinderApp.icns */; };
 		5323E6B20EAFCA74003A9687 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5323E6B10EAFCA74003A9687 /* CoreVideo.framework */; };
 		5323E6B60EAFCA7E003A9687 /* QTKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5323E6B50EAFCA7E003A9687 /* QTKit.framework */; };
 		53E3CDFC0E86099300238D2B /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 53E3CDFB0E86099300238D2B /* Carbon.framework */; };
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		9D271C9A1639799200D7055E /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D271C961639799200D7055E /* Accelerate.framework */; };
+		9D271C9B1639799200D7055E /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D271C971639799200D7055E /* AudioToolbox.framework */; };
+		9D271C9C1639799200D7055E /* AudioUnit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D271C981639799200D7055E /* AudioUnit.framework */; };
+		9D271C9D1639799200D7055E /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D271C991639799200D7055E /* CoreAudio.framework */; };
+		9D271CA316397A1500D7055E /* Starbucks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9D271CA116397A1500D7055E /* Starbucks.cpp */; };
+		9D271CA616397A3900D7055E /* Entry.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9D271CA416397A3900D7055E /* Entry.cpp */; };
+		9D271CAD16397BA000D7055E /* greggjsStarbucks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9D271CAB16397BA000D7055E /* greggjsStarbucks.cpp */; };
+		9D271CCB1639880400D7055E /* RTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9D271CC91639880400D7055E /* RTree.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0091D8F80E81B9330029341E /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = /System/Library/Frameworks/OpenGL.framework; sourceTree = "<absolute>"; };
 		0097E3E40F3E9819005A4392 /* QuickTime.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuickTime.framework; path = /System/Library/Frameworks/QuickTime.framework; sourceTree = "<absolute>"; };
-		00B784AF0FF439BC000DE1D7 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
-		00B784B00FF439BC000DE1D7 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
-		00B784B10FF439BC000DE1D7 /* AudioUnit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioUnit.framework; path = System/Library/Frameworks/AudioUnit.framework; sourceTree = SDKROOT; };
-		00B784B20FF439BC000DE1D7 /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = System/Library/Frameworks/CoreAudio.framework; sourceTree = SDKROOT; };
 		00BAE6590E7ED9C10018A608 /* StarbucksSearchRTreeApp.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = StarbucksSearchRTreeApp.cpp; path = ../src/StarbucksSearchRTreeApp.cpp; sourceTree = SOURCE_ROOT; };
+		00CCAF14116A9FEE008396D5 /* CinderApp.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = CinderApp.icns; sourceTree = SOURCE_ROOT; };
 		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
 		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
@@ -38,8 +39,19 @@
 		5323E6B50EAFCA7E003A9687 /* QTKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QTKit.framework; path = /System/Library/Frameworks/QTKit.framework; sourceTree = "<absolute>"; };
 		53E3CDFB0E86099300238D2B /* Carbon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Carbon.framework; path = /System/Library/Frameworks/Carbon.framework; sourceTree = "<absolute>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00CCAF14116A9FEE008396D5 /* CinderApp.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = CinderApp.icns; path = CinderApp.icns; sourceTree = SOURCE_ROOT; };
 		8D1107320486CEB800E47090 /* StarbucksSearchRTree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StarbucksSearchRTree.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D271C961639799200D7055E /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = /System/Library/Frameworks/Accelerate.framework; sourceTree = "<absolute>"; };
+		9D271C971639799200D7055E /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = /System/Library/Frameworks/AudioToolbox.framework; sourceTree = "<absolute>"; };
+		9D271C981639799200D7055E /* AudioUnit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioUnit.framework; path = /System/Library/Frameworks/AudioUnit.framework; sourceTree = "<absolute>"; };
+		9D271C991639799200D7055E /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = /System/Library/Frameworks/CoreAudio.framework; sourceTree = "<absolute>"; };
+		9D271C9F163979F500D7055E /* Entry.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Entry.h; path = ../include/Entry.h; sourceTree = "<group>"; };
+		9D271CA016397A0600D7055E /* Starbucks.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Starbucks.h; path = ../include/Starbucks.h; sourceTree = "<group>"; };
+		9D271CA116397A1500D7055E /* Starbucks.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Starbucks.cpp; path = ../src/Starbucks.cpp; sourceTree = "<group>"; };
+		9D271CA416397A3900D7055E /* Entry.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Entry.cpp; path = ../src/Entry.cpp; sourceTree = "<group>"; };
+		9D271CAA16397B7800D7055E /* greggjsStarbucks.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = greggjsStarbucks.h; path = ../include/greggjsStarbucks.h; sourceTree = "<group>"; };
+		9D271CAB16397BA000D7055E /* greggjsStarbucks.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = greggjsStarbucks.cpp; path = ../src/greggjsStarbucks.cpp; sourceTree = "<group>"; };
+		9D271CC91639880400D7055E /* RTree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RTree.cpp; sourceTree = "<group>"; };
+		9D271CCC1639881400D7055E /* RTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RTree.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,16 +59,16 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D271C9A1639799200D7055E /* Accelerate.framework in Frameworks */,
+				9D271C9B1639799200D7055E /* AudioToolbox.framework in Frameworks */,
+				9D271C9C1639799200D7055E /* AudioUnit.framework in Frameworks */,
+				9D271C9D1639799200D7055E /* CoreAudio.framework in Frameworks */,
 				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
 				0091D8F90E81B9330029341E /* OpenGL.framework in Frameworks */,
 				53E3CDFC0E86099300238D2B /* Carbon.framework in Frameworks */,
 				5323E6B20EAFCA74003A9687 /* CoreVideo.framework in Frameworks */,
 				5323E6B60EAFCA7E003A9687 /* QTKit.framework in Frameworks */,
 				0097E3E50F3E9819005A4392 /* QuickTime.framework in Frameworks */,
-				00B784B30FF439BC000DE1D7 /* Accelerate.framework in Frameworks */,
-				00B784B40FF439BC000DE1D7 /* AudioToolbox.framework in Frameworks */,
-				00B784B50FF439BC000DE1D7 /* AudioUnit.framework in Frameworks */,
-				00B784B60FF439BC000DE1D7 /* CoreAudio.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -67,6 +79,10 @@
 			isa = PBXGroup;
 			children = (
 				00BAE6590E7ED9C10018A608 /* StarbucksSearchRTreeApp.cpp */,
+				9D271CA416397A3900D7055E /* Entry.cpp */,
+				9D271CA116397A1500D7055E /* Starbucks.cpp */,
+				9D271CAB16397BA000D7055E /* greggjsStarbucks.cpp */,
+				9D271CC91639880400D7055E /* RTree.cpp */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -74,10 +90,10 @@
 		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				00B784AF0FF439BC000DE1D7 /* Accelerate.framework */,
-				00B784B00FF439BC000DE1D7 /* AudioToolbox.framework */,
-				00B784B10FF439BC000DE1D7 /* AudioUnit.framework */,
-				00B784B20FF439BC000DE1D7 /* CoreAudio.framework */,
+				9D271C961639799200D7055E /* Accelerate.framework */,
+				9D271C971639799200D7055E /* AudioToolbox.framework */,
+				9D271C981639799200D7055E /* AudioUnit.framework */,
+				9D271C991639799200D7055E /* CoreAudio.framework */,
 				0097E3E40F3E9819005A4392 /* QuickTime.framework */,
 				5323E6B50EAFCA7E003A9687 /* QTKit.framework */,
 				5323E6B10EAFCA74003A9687 /* CoreVideo.framework */,
@@ -109,7 +125,7 @@
 		29B97314FDCFA39411CA2CEA /* StarbucksSearchRTree */ = {
 			isa = PBXGroup;
 			children = (
-				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97315FDCFA39411CA2CEA /* Headers */,
 				080E96DDFE201D6D7F000001 /* Source */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
@@ -118,19 +134,23 @@
 			name = StarbucksSearchRTree;
 			sourceTree = "<group>";
 		};
-		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+		29B97315FDCFA39411CA2CEA /* Headers */ = {
 			isa = PBXGroup;
 			children = (
 				32CA4F630368D1EE00C91783 /* StarbucksSearchRTree_Prefix.pch */,
+				9D271C9F163979F500D7055E /* Entry.h */,
+				9D271CA016397A0600D7055E /* Starbucks.h */,
+				9D271CAA16397B7800D7055E /* greggjsStarbucks.h */,
+				9D271CCC1639881400D7055E /* RTree.h */,
 			);
-			name = "Headers";
+			name = Headers;
 			sourceTree = "<group>";
 		};
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				8D1107310486CEB800E47090 /* Info.plist */,
-				00CCAF14116A9FEE008396D5 /* CinderApp.icns */,				
+				00CCAF14116A9FEE008396D5 /* CinderApp.icns */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -161,7 +181,7 @@
 			);
 			name = StarbucksSearchRTree;
 			productInstallPath = "$(HOME)/Applications";
-			productName = StarbucksSearchRTree;	
+			productName = StarbucksSearchRTree;
 			productReference = 8D1107320486CEB800E47090 /* StarbucksSearchRTree.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -172,7 +192,11 @@
 			isa = PBXProject;
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "StarbucksSearchRTree" */;
 			compatibilityVersion = "Xcode 3.0";
+			developmentRegion = English;
 			hasScannedForEncodings = 1;
+			knownRegions = (
+				en,
+			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* StarbucksSearchRTree */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -199,6 +223,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				00BAE65A0E7ED9C10018A608 /* StarbucksSearchRTreeApp.cpp in Sources */,
+				9D271CA316397A1500D7055E /* Starbucks.cpp in Sources */,
+				9D271CA616397A3900D7055E /* Entry.cpp in Sources */,
+				9D271CAD16397BA000D7055E /* greggjsStarbucks.cpp in Sources */,
+				9D271CCB1639880400D7055E /* RTree.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -211,12 +239,12 @@
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_FIX_AND_CONTINUE = YES;
-				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;				
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
 				GCC_MODEL_TUNING = G5;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = StarbucksSearchRTree_Prefix.pch;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				OTHER_LDFLAGS = (
@@ -237,11 +265,11 @@
 				GCC_FAST_MATH = YES;
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
 				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_MODEL_TUNING = G5;
 				GCC_OPTIMIZATION_LEVEL = 3;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = StarbucksSearchRTree_Prefix.pch;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				OTHER_LDFLAGS = (
@@ -249,8 +277,8 @@
 					"-lcurl",
 				);
 				PRODUCT_NAME = StarbucksSearchRTree;
-				SYMROOT = ./build;				
 				STRIP_INSTALLED_PRODUCT = YES;
+				SYMROOT = ./build;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -260,13 +288,13 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = i386;
-				CINDER_PATH = "../../../../../../../cinder_0.8.4_mac";
+				CINDER_PATH = ../../../../../../../cinder_0.8.4_mac;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = "\"$(CINDER_PATH)/boost\"";
-				PREBINDING = NO;
-				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.6.sdk";
 				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				PREBINDING = NO;
+				SDKROOT = macosx10.7;
 				USER_HEADER_SEARCH_PATHS = "\"$(CINDER_PATH)/include\" ../include";
 			};
 			name = Debug;
@@ -276,13 +304,13 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = i386;
-				CINDER_PATH = "../../../../../../../cinder_0.8.4_mac";
+				CINDER_PATH = ../../../../../../../cinder_0.8.4_mac;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = "\"$(CINDER_PATH)/boost\"";
-				PREBINDING = NO;
-				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.6.sdk";
 				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				PREBINDING = NO;
+				SDKROOT = macosx10.7;
 				USER_HEADER_SEARCH_PATHS = "\"$(CINDER_PATH)/include\" ../include";
 			};
 			name = Release;
